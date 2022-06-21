@@ -1,0 +1,19 @@
+MongoDB shell version v3.6.3
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.3
+2022-06-05T23:15:41.521+0200 E QUERY    [thread1] SyntaxError: missing ) after argument list @zapytanie_6.js:1:533
+failed to load: zapytanie_6.js
+MongoDB shell version v3.6.3
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.3
+2022-06-05T23:18:34.674+0200 E QUERY    [thread1] TypeError: db.people.insert(...).toArray is not a function :
+@zapytanie_6.js:1:12
+failed to load: zapytanie_6.js
+MongoDB shell version v3.6.3
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.3
+{ "nInserted" : 1 }
+MongoDB shell version v3.6.3
+connecting to: mongodb://127.0.0.1:27017/nbd
+MongoDB server version: 3.6.3
+{ "nInserted" : 1 }
